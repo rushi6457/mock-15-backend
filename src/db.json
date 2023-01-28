@@ -1,0 +1,782 @@
+[
+    {
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "easy",
+"question": "What does the &#039;S&#039; stand for in the abbreviation SIM, as in SIM card? ",
+"correct_answer": "Subscriber",
+"incorrect_answers": [
+"Single",
+"Secure",
+"Solid"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which one of the following rhythm games was made by Harmonix?",
+"correct_answer": "Rock Band",
+"incorrect_answers": [
+"Meat Beat Mania",
+"Guitar Hero Live",
+"Dance Dance Revolution"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which of these colours is NOT featured in the logo for Google?",
+"correct_answer": "Pink",
+"incorrect_answers": [
+"Yellow",
+"Blue",
+"Green"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which one of these is not a typical European sword design?",
+"correct_answer": "Scimitar",
+"incorrect_answers": [
+"Falchion",
+"Ulfberht",
+"Flamberge"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which American-owned brewery led the country in sales by volume in 2015?",
+"correct_answer": "D. G. Yuengling and Son, Inc",
+"incorrect_answers": [
+"Anheuser Busch",
+"Boston Beer Company",
+"Miller Coors"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "easy",
+"question": "The New York Times slogan is, &ldquo;All the News That&rsquo;s Fit to&hellip;&rdquo;",
+"correct_answer": "Print",
+"incorrect_answers": [
+"Digest",
+"Look",
+"Read"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "easy",
+"question": "What do the letters of the fast food chain KFC stand for?",
+"correct_answer": "Kentucky Fried Chicken",
+"incorrect_answers": [
+"Kentucky Fresh Cheese",
+"Kibbled Freaky Cow",
+"Kiwi Food Cut"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which of the following card games revolves around numbers and basic math?",
+"correct_answer": "Uno",
+"incorrect_answers": [
+"Go Fish",
+"Twister",
+"Munchkin"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "easy",
+"question": "What is Cynophobia the fear of?",
+"correct_answer": "Dogs",
+"incorrect_answers": [
+"Birds",
+"Flying",
+"Germs"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "easy",
+"question": "The Flag of the European Union has how many stars on it?",
+"correct_answer": "12",
+"incorrect_answers": [
+"10",
+"14",
+"16"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Earth is located in which galaxy?",
+"correct_answer": "The Milky Way Galaxy",
+"incorrect_answers": [
+"The Mars Galaxy",
+"The Galaxy Note",
+"The Black Hole"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "easy",
+"question": "What is the French word for &quot;fish&quot;?",
+"correct_answer": "poisson",
+"incorrect_answers": [
+"fiche",
+"escargot",
+"mer"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "easy",
+"question": "What is the profession of Elon Musk&#039;s mom, Maye Musk?",
+"correct_answer": "Model",
+"incorrect_answers": [
+"Professor",
+"Biologist",
+"Musician"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "easy",
+"question": "What is the famous Papa John&#039;s last name?",
+"correct_answer": "Schnatter",
+"incorrect_answers": [
+"Chowder",
+"Williams",
+"ANDERSON"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "easy",
+"question": "The &ldquo;fairy&rdquo; type made it&rsquo;s debut in which generation of the Pokemon core series games?",
+"correct_answer": "6th",
+"incorrect_answers": [
+"2nd",
+"7th",
+"4th"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Which of these companies does NOT manufacture automobiles?",
+"correct_answer": "Ducati",
+"incorrect_answers": [
+"Nissan",
+"GMC",
+"Fiat"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "medium",
+"question": "What is the unit of currency in Laos?",
+"correct_answer": "Kip",
+"incorrect_answers": [
+"Ruble",
+"Konra",
+"Dollar"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "medium",
+"question": "What alcoholic drink is mainly made from juniper berries?",
+"correct_answer": "Gin",
+"incorrect_answers": [
+"Vodka",
+"Rum",
+"Tequila"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "medium",
+"question": "On average, Americans consume 100 pounds of what per second?",
+"correct_answer": "Chocolate",
+"incorrect_answers": [
+"Potatoes",
+"Donuts",
+"Cocaine"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "medium",
+"question": "When was Nintendo founded?",
+"correct_answer": "September 23rd, 1889",
+"incorrect_answers": [
+"October 19th, 1891",
+"March 4th, 1887",
+"December 27th, 1894"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "medium",
+"question": "When did the website &quot;Facebook&quot; launch?",
+"correct_answer": "2004",
+"incorrect_answers": [
+"2005",
+"2003",
+"2006"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Apple co-founder Steve Jobs died from complications of which form of cancer?",
+"correct_answer": "Pancreatic",
+"incorrect_answers": [
+"Bone",
+"Liver",
+"Stomach"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Which slogan did the fast food company, McDonald&#039;s, use before their &quot;I&#039;m Lovin&#039; It&quot; slogan?",
+"correct_answer": "We Love to See You Smile",
+"incorrect_answers": [
+"Why Pay More!?",
+"Have It Your Way",
+"Making People Happy Through Food"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "medium",
+"question": "What was the original name of the search engine &quot;Google&quot;?",
+"correct_answer": "BackRub",
+"incorrect_answers": [
+"CatMassage",
+"SearchPro",
+"Netscape Navigator"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Which country has the most Trappist breweries?",
+"correct_answer": "Belgium",
+"incorrect_answers": [
+"Netherlands",
+"France",
+"USA"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "medium",
+"question": "What is the currency of Poland?",
+"correct_answer": "Złoty",
+"incorrect_answers": [
+"Ruble",
+"Euro",
+"Krone"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "medium",
+"question": "What is the star sign of someone born on Valentines day?",
+"correct_answer": "Aquarius",
+"incorrect_answers": [
+"Pisces",
+"Capricorn",
+"Scorpio"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "medium",
+"question": "The Fields Medal, one of the most sought after awards in mathematics, is awarded every how many years?",
+"correct_answer": "4",
+"incorrect_answers": [
+"3",
+"5",
+"6"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Linus Pauling, one of the only winners of multiple Nobel Prizes, earned his Nobel Prizes in Chemistry and what?",
+"correct_answer": "Peace",
+"incorrect_answers": [
+"Physics",
+"Economics",
+"Physiology/Medicine"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "medium",
+"question": "The architect known as Le Corbusier was an important figure in what style of architecture?",
+"correct_answer": "Modernism",
+"incorrect_answers": [
+"Neoclassical",
+"Baroque",
+"Gothic Revival"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "hard",
+"question": "The words &quot;bungalow&quot; and &quot;shampoo&quot; originate from the languages of which country?",
+"correct_answer": "India",
+"incorrect_answers": [
+"Papua New Guinea",
+"Ethiopia",
+"China"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "hard",
+"question": "When was &quot;YouTube&quot; founded?",
+"correct_answer": "February 14, 2005",
+"incorrect_answers": [
+"May 22, 2004",
+"September 12, 2005",
+"July 19, 2009"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "hard",
+"question": "Before the 19th Century, the &quot;Living Room&quot; was originally called the...",
+"correct_answer": "Parlor",
+"incorrect_answers": [
+"Open Room",
+"Sitting Room",
+"Loft"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "hard",
+"question": "Which of the following chemicals are found in eggplant seeds?",
+"correct_answer": "Nicotine",
+"incorrect_answers": [
+"Mescaline",
+"Cyanide",
+"Psilocybin"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "hard",
+"question": "What is the romanized Korean word for &quot;heart&quot;?",
+"correct_answer": "Simjang",
+"incorrect_answers": [
+"Aejeong",
+"Jeongsin",
+"Segseu"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "hard",
+"question": "Which one of these Swedish companies was founded in 1943?",
+"correct_answer": "IKEA",
+"incorrect_answers": [
+"H &amp; M",
+"Lindex",
+"Clas Ohlson"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "hard",
+"question": "What was Bank of America originally established as?",
+"correct_answer": "Bank of Italy",
+"incorrect_answers": [
+"Bank of Long Island",
+"Bank of Pennsylvania",
+"Bank of Charlotte"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "hard",
+"question": "If someone said &quot;you are olid&quot;, what would they mean?",
+"correct_answer": "You smell extremely unpleasant.",
+"incorrect_answers": [
+"You are out of shape/weak.",
+"Your appearance is repulsive.",
+"You are incomprehensible/an idiot."
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "hard",
+"question": "What is the most commonly used noun in the English language?",
+"correct_answer": "Time",
+"incorrect_answers": [
+"Home",
+"Water",
+"Man"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "hard",
+"question": "In &quot;Resident Evil 3&quot;, how many inventory slots does Jill have at the start of the game?",
+"correct_answer": "10",
+"incorrect_answers": [
+"6",
+"8",
+"12"
+]
+},
+{
+"category": "Science: Computers",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Which internet company began life as an online bookstore called &#039;Cadabra&#039;?",
+"correct_answer": "Amazon",
+"incorrect_answers": [
+"eBay",
+"Overstock",
+"Shopify"
+]
+},
+{
+"category": "Science: Computers",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Whistler was the codename of this Microsoft Operating System.",
+"correct_answer": "Windows XP",
+"incorrect_answers": [
+"Windows 2000",
+"Windows 7",
+"Windows 95"
+]
+},
+{
+"category": "Science: Computers",
+"type": "multiple",
+"difficulty": "medium",
+"question": "What was the name given to Android 4.3?",
+"correct_answer": "Jelly Bean",
+"incorrect_answers": [
+"Lollipop",
+"Nutella",
+"Froyo"
+]
+},
+{
+"category": "Science: Computers",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?",
+"correct_answer": "Clipper Chip",
+"incorrect_answers": [
+"Enigma Machine",
+"Skipjack",
+"Nautilus"
+]
+},
+{
+"category": "Science: Computers",
+"type": "multiple",
+"difficulty": "medium",
+"question": "While Apple was formed in California, in which western state was Microsoft founded?",
+"correct_answer": "New Mexico",
+"incorrect_answers": [
+"Washington",
+"Colorado",
+"Arizona"
+]
+},
+{
+"category": "Science: Computers",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In the server hosting industry IaaS stands for...",
+"correct_answer": "Infrastructure as a Service",
+"incorrect_answers": [
+"Internet as a Service",
+"Internet and a Server",
+"Infrastructure as a Server"
+]
+},
+{
+"category": "Science: Computers",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In programming, the ternary operator is mostly defined with what symbol(s)?",
+"correct_answer": "?:",
+"incorrect_answers": [
+"??",
+"if then",
+"?"
+]
+},
+{
+"category": "Science: Computers",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Which of the following is a personal computer made by the Japanese company Fujitsu?",
+"correct_answer": "FM-7",
+"incorrect_answers": [
+"PC-9801",
+"Xmillennium ",
+"MSX"
+]
+},
+{
+"category": "Science: Computers",
+"type": "multiple",
+"difficulty": "medium",
+"question": "How many bits make up the significand portion of a single precision floating point number?",
+"correct_answer": "23",
+"incorrect_answers": [
+"8",
+"53",
+"15"
+]
+},
+{
+"category": "Science: Computers",
+"type": "multiple",
+"difficulty": "medium",
+"question": "What does the &#039;S&#039; in the RSA encryption algorithm stand for?",
+"correct_answer": "Shamir",
+"incorrect_answers": [
+"Secure",
+"Schottky",
+"Stable"
+]
+},
+{
+"category": "Politics",
+"type": "multiple",
+"difficulty": "hard",
+"question": "Which letter do you need to have on a European driver license in order to ride any motorbikes?",
+"correct_answer": "A",
+"incorrect_answers": [
+"X",
+"D",
+"B"
+]
+},
+{
+"category": "Politics",
+"type": "multiple",
+"difficulty": "hard",
+"question": "Which of the following United States Presidents served the shortest term in office?",
+"correct_answer": "William Henry Harrison",
+"incorrect_answers": [
+"Zachary Taylor",
+"James A. Garfield",
+"Warren G. Harding"
+]
+},
+{
+"category": "Politics",
+"type": "multiple",
+"difficulty": "hard",
+"question": "What is centralism?",
+"correct_answer": " Concentration of power and authority in a central organization.",
+"incorrect_answers": [
+"Conforming to one single common political agenda.",
+"Remaining politically neutral.",
+"The grey area in the spectrum of political left and right."
+]
+},
+{
+"category": "Politics",
+"type": "multiple",
+"difficulty": "hard",
+"question": "Which of these was an official candidate in the 2017 British General Election?",
+"correct_answer": "Lord Buckethead",
+"incorrect_answers": [
+"James Francis",
+"Robert Wimbledon",
+"Sir Crumpetsby"
+]
+},
+{
+"category": "Politics",
+"type": "multiple",
+"difficulty": "hard",
+"question": "Who was the longest-serving senator in US history, serving from 1959 to 2010?",
+"correct_answer": "Robert Byrd",
+"incorrect_answers": [
+"Daniel Inouye",
+"Strom Thurmond",
+"Joe Biden"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "easy",
+"question": "In what sport is a &quot;shuttlecock&quot; used?",
+"correct_answer": "Badminton",
+"incorrect_answers": [
+"Table Tennis",
+"Rugby",
+"Cricket"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "easy",
+"question": "In Baseball, how many times does the ball have to be pitched outside of the strike zone before the batter is walked?",
+"correct_answer": "4",
+"incorrect_answers": [
+"1",
+"2",
+"3"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which city did the former NHL team &quot;The Nordiques&quot; originiate from?",
+"correct_answer": "Quebec City",
+"incorrect_answers": [
+"Houston",
+"Montreal",
+"New York"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "easy",
+"question": "What team won the 2016 MLS Cup?",
+"correct_answer": "Seattle Sounders",
+"incorrect_answers": [
+"Colorado Rapids",
+"Toronto FC",
+"Montreal Impact"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "easy",
+"question": "What is the most common type of pitch thrown by pitchers in baseball?",
+"correct_answer": "Fastball",
+"incorrect_answers": [
+"Slowball",
+"Screwball",
+"Palmball"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which player holds the NHL record of 2,857 points?",
+"correct_answer": "Wayne Gretzky",
+"incorrect_answers": [
+"Mario Lemieux ",
+"Sidney Crosby",
+"Gordie Howe"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "easy",
+"question": "&quot;Stadium of Light&quot; is the home stadium for which soccer team?",
+"correct_answer": "Sunderland FC",
+"incorrect_answers": [
+"Barcelona FC",
+"Paris Saints-Germain",
+"Manchester United"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which year did Jenson Button won his first ever Formula One World Drivers&#039; Championship?",
+"correct_answer": "2009",
+"incorrect_answers": [
+"2010",
+"2007",
+"2006"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Who won the 2017 Formula One World Drivers&#039; Championship?",
+"correct_answer": "Lewis Hamilton",
+"incorrect_answers": [
+"Sebastian Vettel",
+"Nico Rosberg",
+"Max Verstappen"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which two teams played in Super Bowl XLII?",
+"correct_answer": "The New York Giants &amp; The New England Patriots",
+"incorrect_answers": [
+"The Green Bay Packers &amp; The Pittsburgh Steelers",
+"The Philadelphia Eagles &amp; The New England Patriots",
+"The Seattle Seahawks &amp; The Denver Broncos"
+]
+}
+]
